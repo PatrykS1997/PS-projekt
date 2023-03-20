@@ -35,6 +35,7 @@
             <section>
                 <h2>Zapora wodna</h2>
                 <p>Budowla hydrotechniczna, która zatrzymuje wodę i tworzy zbiornik retencyjny, z którego woda może być później wypuszczana na turbinę.</p>
+                <img src="https://www.hydrotech-group.com/files/ckeditor/najkrajsie%20vodne%20priehrady/vodne-priehrady-03.jpg" width="500" height="300" />
                 <h3>Przykładowe wartości mierzone:</h3>
                 <ul>
                     <li>Poziom wody w zbiorniku: 50m</li>
@@ -45,6 +46,7 @@
             <section>
                 <h2>Rura ssąca</h2>
                 <p>Rura, która pobiera wodę z zbiornika i przesyła ją do turbiny.</p>
+                <img src="http://www.tce-energy.com/assets/img/projects/Kolbudy/6.jpg" width="500" height="700" />
                 <h3>Przykładowe wartości mierzone:</h3>
                 <ul>
                     <li>Przepływ wody: 180m3/s</li>
@@ -54,6 +56,7 @@
             <section>
                 <h2>Turbina wodna</h2>
                 <p>Urządzenie, które zamienia energię kinetyczną ruchu wody na energię mechaniczną obrotu wału turbiny.</p>
+                <img src="https://swiatoze.pl/wp-content/uploads/2022/08/hydro-okladka.png" width="500" height="300" />
                 <h3>Przykładowe wartości mierzone:</h3>
                 <ul>
                     <li>prędkość obrotowa turbiny 1500 obr./min</li>
@@ -64,6 +67,7 @@
             <section>
                 <h2>Generator</h2>
                 <p>Maszyna elektryczna, która zamienia energię mechaniczną z turbiny na energię elektryczną.</p>
+                <img src="https://www.mew24.pl/_upload/posts/2018/02/21/1519210327_700_pb.jpg" width="500" height="300" />
                 <h3>Przykładowe wartości mierzone:</h3>
                 <ul>
                     <li>ilość generowanej energii: 10 MW</li>
@@ -75,6 +79,7 @@
             <section>
                 <h2>Transformator</h2>
                 <p>Urządzenie elektryczne, które zmienia napięcie elektryczne z generatora na napięcie elektryczne, które jest używane do przesyłania energii elektrycznej.</p>
+                <img src="https://mechatronikadlawszystkich.pl/imager/files/84254/W1000_H584_Mcrop_P13-98-92-44.jpg" width="500" height="300" />
                 <ul>
                     <li>napięcie wejściowe: 110 kV</li>
                     <li>napięcie wyjściowe: 220 kV</li>
